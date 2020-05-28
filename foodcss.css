@@ -9,7 +9,7 @@ body{
 
 .header{
  
-    background-image: url(./img/showcase7.jpg);
+    background-image: url(./img/showcase8.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -37,7 +37,7 @@ body{
 }
 
 .header-primary h3{
-    color:grey;
+    color:white;
     font-family:  'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -54,12 +54,12 @@ ul li {
 ul li a{
     text-decoration: none;
     font-family:  ' Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:grey;
+    color:white;
     font-size: 15px;
 }
 
 a[title]{
-    color: silver;
+    color: white;
 }
 
 .header hr{
@@ -75,7 +75,7 @@ a[title]{
 }
 
 .primary-head h1{
-    color: grey;
+    color: white;
     font-size: 60px;
     font-family:  ' Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     letter-spacing: 4px;
@@ -94,7 +94,7 @@ a[title]{
 }
 
 .primary-head .small p{
-    color: grey;
+    color: white;
     opacity: .4;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.7rem;
@@ -105,7 +105,7 @@ a[title]{
 .primary-head .btn{
     padding: 1.5rem 3.4rem;
     border-radius: 3rem;
-    background-color: grey;
+    background-color: white;
     border: none;
     color: #1A1A1A;
     font-weight: 600;
@@ -122,13 +122,13 @@ a[title]{
 }
 
 .row .col-md p{
-    color: #fff;
+    color: black;
     font-family:  'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .row .col-md small{
     font-family:  'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #fff;
+    color: black;
     opacity: .5;
     font-weight: normal;
 }
